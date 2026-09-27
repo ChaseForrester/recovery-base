@@ -1,18 +1,38 @@
 {
+    "id": "/",
     "name": "Recovery Base Shellharbour",
     "short_name": "Recovery Base",
     "description": "Infrared sauna, traditional sauna, ice bath, contrast therapy and float tank in Barrack Heights.",
     "start_url": "/",
     "scope": "/",
     "display": "standalone",
+    "orientation": "portrait",
     "lang": "en-AU",
+    "dir": "ltr",
     "background_color": "#efebe0",
     "theme_color": "#9bb59c",
+    "categories": [
+        "health",
+        "lifestyle"
+    ],
     "icons": [
         {
-            "src": "https://images.squarespace-cdn.com/content/v1/68b87cdde34c103f607987cd/363e8597-9cdb-44a2-9868-4d51c06305a2/favicon.ico?format=100w",
-            "sizes": "64x64",
-            "type": "image/x-icon"
+            "src": "/icons/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/icons/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/icons/icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
         }
     ]
 }
