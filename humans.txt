@@ -1,0 +1,11 @@
+/* TEAM */
+Studio: Recovery Base
+Founders: Julie Kondakis and Nathan
+Contact: hello@recoverybase.com.au
+Phone: +61 492 976 576
+Location: Unit 1/3 Sunset Ave, Barrack Heights NSW 2528, Australia
+
+/* SITE */
+Language: English (Australia)
+Standards: HTML, llms.txt, schema.org, RSS
+Components: static pages, Firebase Hosting project recovery-base-au

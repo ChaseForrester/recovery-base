@@ -1,0 +1,46 @@
+Recovery Base
+Barrack Heights, Shellharbour, NSW, Australia
+
+Name: Recovery Base
+Category: Health spa and wellness studio
+Address: Unit 1/3 Sunset Ave, Barrack Heights NSW 2528, Australia
+Latitude: -34.5576103
+Longitude: 150.8583797
+Phone: +61 492 976 576
+Email: hello@recoverybase.com.au
+Website: https://www.recoverybase.com.au
+This site: https://recovery-base-au.web.app/
+Hours: Mon–Fri 8am–8pm. Sat–Sun 8am–4pm.
+Founders: Julie Kondakis and Nathan
+Instagram: https://www.instagram.com/recoverybase_
+Facebook: https://www.facebook.com/people/Recovery-Base/61586276261178/
+
+Services:
+- Traditional sauna
+- Infrared sauna
+- Ice bath
+- Contrast therapy
+- Red light therapy (communal memberships)
+- Private float tank
+- Compression therapy (see the blog guide)
+
+Prices in Australian dollars:
+- Foundation communal membership: from $20 per week, capped at 100 spots, while available
+- Communal memberships and passes: from $25 per week
+- Private memberships and passes: from $40 per week
+- Communal contrast session: $40 per person, one hour. The first communal contrast session is free
+- Private contrast therapy: $60, up to 2 people, one hour
+- Float tank: $60, up to 2 people, one hour
+- Private infrared sauna: $60, up to 3 people, one hour
+
+What to bring:
+- Private rooms include towels
+- Communal sessions: bring your own towel, a water bottle, and comfortable clothes
+- Avoid caffeine beforehand. Do not arrive after drinking alcohol
+
+Booking portal: https://recoverybase.gymmasteronline.com/portal/signup/1
+Member portal: https://recoverybase.gymmasteronline.com/portal/login
+App: https://apps.apple.com/mm/app/recovery-base/id6751828364
+
+Plain-text guide: https://recovery-base-au.web.app/llms.txt
+Full text: https://recovery-base-au.web.app/llms-full.txt

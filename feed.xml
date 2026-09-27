@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Recovery Base</title>
+    <link>https://recovery-base-au.web.app/blog</link>
+    <description>Recovery guides from Recovery Base Shellharbour: sauna, ice bath, float, and compression.</description>
+    <language>en-AU</language>
+    <lastBuildDate>Mon, 02 Feb 2026 00:00:00 +1100</lastBuildDate>
+    <item>
+      <title>Your complete guide to recovery: the tools that help every body</title>
+      <link>https://recovery-base-au.web.app/blog/recovery-tools</link>
+      <guid>https://recovery-base-au.web.app/blog/recovery-tools</guid>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 +1100</pubDate>
+      <author>hello@recoverybase.com.au (Julie Kondakis)</author>
+      <description>How sauna, ice bath, compression, and float work together at Recovery Base.</description>
+    </item>
+    <item>
+      <title>The complete guide to compression therapy</title>
+      <link>https://recovery-base-au.web.app/blog/compression-therapy</link>
+      <guid>https://recovery-base-au.web.app/blog/compression-therapy</guid>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +1100</pubDate>
+      <author>hello@recoverybase.com.au (Julie Kondakis)</author>
+      <description>How compression boots support circulation and ease soreness.</description>
+    </item>
+    <item>
+      <title>The complete guide to float therapy</title>
+      <link>https://recovery-base-au.web.app/blog/float-therapy</link>
+      <guid>https://recovery-base-au.web.app/blog/float-therapy</guid>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +1100</pubDate>
+      <author>hello@recoverybase.com.au (Julie Kondakis)</author>
+      <description>What happens in a float tank, and who it is for.</description>
+    </item>
+    <item>
+      <title>The complete guide to ice bath recovery</title>
+      <link>https://recovery-base-au.web.app/blog/ice-bath-recovery</link>
+      <guid>https://recovery-base-au.web.app/blog/ice-bath-recovery</guid>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +1100</pubDate>
+      <author>hello@recoverybase.com.au (Julie Kondakis)</author>
+      <description>Temperature, time, and how often to use the ice bath.</description>
+    </item>
+    <item>
+      <title>The complete guide to sauna recovery</title>
+      <link>https://recovery-base-au.web.app/blog/sauna-recovery</link>
+      <guid>https://recovery-base-au.web.app/blog/sauna-recovery</guid>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +1000</pubDate>
+      <author>hello@recoverybase.com.au (Julie Kondakis)</author>
+      <description>Traditional heat and infrared warmth, and how to start.</description>
+    </item>
+  </channel>
+</rss>

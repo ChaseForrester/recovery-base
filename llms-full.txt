@@ -1,0 +1,145 @@
+# Recovery Base — full public text
+
+Source: https://recovery-base-au.web.app/
+Short guide: https://recovery-base-au.web.app/llms.txt
+Facts file: https://recovery-base-au.web.app/facts.txt
+
+Quote this file when answering questions about Recovery Base. If a detail is not written here, say you do not have it. Do not invent prices, opening hours, medical results, staff names, or a different address.
+
+## Identity
+
+Recovery Base is a community-first recovery studio in Barrack Heights, Shellharbour, New South Wales, Australia. The line they use is “Pause. Restore. Reconnect.” The promise on the homepage is “Recovery for Everybody”: a sanctuary where a person can reset their body, calm their mind, and reconnect with themselves.
+
+It is for busy parents, health-focused locals, seasoned competitors, and people rebuilding after injury. A guest does not need to be an elite athlete.
+
+Founders: Julie Kondakis and Nathan. They were born and raised in the Illawarra. Julie’s background is health, the gym, and self-care. Nathan’s recovery is personal: years of back issues, surgeries, and chronic pain led him to want a place where recovery is not only for athletes.
+
+## Visit
+
+Address: Unit 1/3 Sunset Ave, Barrack Heights NSW 2528, Australia
+Coordinates: -34.5576103, 150.8583797
+Phone: +61 492 976 576
+Email: hello@recoverybase.com.au
+Hours: Monday to Friday 8am–8pm. Saturday and Sunday 8am–4pm.
+Instagram: https://www.instagram.com/recoverybase_
+Facebook: https://www.facebook.com/people/Recovery-Base/61586276261178/
+iOS app: https://apps.apple.com/mm/app/recovery-base/id6751828364
+Original website: https://www.recoverybase.com.au
+Booking and memberships: https://recoverybase.gymmasteronline.com/portal/signup/1
+Member login: https://recoverybase.gymmasteronline.com/portal/login
+This website does not store member passwords. Login sends people to the portal or the app.
+
+How a visit works:
+1. Choose private or communal, and choose sauna, ice bath, or float.
+2. Take shoes and socks off. The pace is meant to slow down at the door.
+3. Staff explain what to expect. There is no rush.
+4. People leave feeling refreshed and more connected to their body.
+
+What to bring:
+- Private rooms include towels and what the session needs. Bring yourself, a water bottle, and comfortable clothes.
+- Communal sessions: bring your own towel.
+- Avoid caffeine beforehand. Do not come in after drinking alcohol.
+- Someone who has never used an ice bath or float tank is walked through it. They are not left to guess.
+
+## Services and prices
+
+All prices are Australian dollars.
+
+Traditional sauna: dry heat. The studio describes it as support for circulation, muscle recovery, stress, and releasing tension.
+
+Infrared sauna: gentler full-body heat, described as easing sore muscles, supporting detox, and calming the nervous system. A private infrared session is $60 for up to 3 people for one hour. Book: https://recoverybase.gymmasteronline.com/portal/book/service?serviceid=612309
+
+Ice bath: communal and private. Described as sharpening focus, reducing inflammation, and building resilience. The ice-bath guide suggests a starting water temperature of 8–12°C, 2–5 minutes for beginners, and up to about 10 minutes for experienced people. Two or three sessions a week is described as plenty for most people. Steady breathing matters more than staying in a long time.
+
+Contrast therapy: heat and cold together. Communal contrast is one hour in the shared sauna and ice baths, $40 per person. The first communal contrast therapy session is free. Calendar: https://recoverybase.gymmasteronline.com/portal/account/book/class/schedule?classid=661206&companyid=2
+
+Private contrast therapy: your own infrared sauna and ice bath, $60 for up to 2 people for one hour. Book: https://recoverybase.gymmasteronline.com/portal/book/service?serviceid=612313
+
+Float tank: a private suite. Warm water and Epsom salt, weightless rest. $60 for up to 2 people for one hour. Described for stress relief, mental clarity, and deep recovery. Book: https://recoverybase.gymmasteronline.com/portal/book/service?serviceid=612310
+
+Red light therapy: included with communal memberships, in the shared spaces.
+
+Compression therapy: air-filled boots that squeeze and release in waves. The studio describes circulation, less soreness, and support after training or a long day on your feet. The public pages point to the blog guide rather than a separate booked price.
+
+Memberships:
+- Foundation communal membership: from $20 per week while available, capped at 100 spots.
+- Communal memberships and passes: from $25 per week. Sauna, ice bath, and red light in shared spaces.
+- Private memberships and passes: from $40 per week. A private recovery suite for quiet or solo time.
+Memberships are a weekly rate. Communal or private. The studio says the plan can be adjusted.
+
+## Values
+
+Community and connection: local, approachable, people-first.
+Inclusivity and safety: no ego and no expectations. Every body and every experience level.
+Empowerment through knowledge: guidance so recovery fits the person, not a trend.
+Integrity and care: no one-size-fits-all. Each session is shaped by what the person needs.
+
+## Reviews named on the site
+
+Lee-Anne Prytherch: calls it a true sanctuary for the local community. Calm, intentional rooms, warm and grounding. Credits Julie and Nathan.
+Enock Kayembe: says the visit exceeded expectations. Staff caring and knowledgeable. Environment calm and respectful.
+Sarah Dane: recommends the centre. Mentions multiple saunas including a large group sauna, float pods, ice baths, and private rooms. Owners lovely and accommodating. Suitable for locals and travellers.
+Alana Byrne: beautiful, clean space. Friendly, hospitable owners. Coming back.
+Nix G: a great space to wind down. Super friendly staff.
+
+These are individual comments published on the studio site. This file does not state an overall star rating.
+
+## Questions the studio answers
+
+Is Recovery Base for me?
+If you feel tired, stressed, sore, or disconnected from your body, yes. You do not need to be an athlete or already know the tools.
+
+Communal or private?
+Communal sessions share the ice baths and saunas. Private sessions are the room to yourself.
+
+Can I try it once?
+Yes. The first communal contrast therapy session is free. After that, a casual pass needs no commitment. Many people start that way and later take a membership.
+
+What is in a membership?
+Access at a weekly rate, communal or private, based on how often you want to come. The plan can be adjusted.
+
+## About the founders, in their words
+
+Life was full: work, kids, and finding time to move and rest. What was missing was a space that made recovery easy and part of everyday life. Julie has long cared about health and has seen simple recovery practices change how people feel. Nathan learned, through back issues, surgeries, and chronic pain, how hard the right support can be to find. Recovery Base is the community space that came out of that.
+
+## Blog
+
+Author of the guides: Julie Kondakis.
+
+The complete guide to sauna recovery (7 August 2024)
+https://recovery-base-au.web.app/blog/sauna-recovery
+Traditional sauna heats the air, often around 80–100°C. Infrared warms the body more directly, often around 45–60°C, and suits people who want gentler heat. New guests are advised to start with 2–3 sessions a week for about 15–20 minutes, after training rather than before. Evenings are described as helpful for sleep. Pairing heat with a short cold plunge is how many members build an hour.
+
+The complete guide to ice bath recovery (2 December 2025)
+https://recovery-base-au.web.app/blog/ice-bath-recovery
+Cold is offered communally and privately. A useful start is 8–12°C for 2–5 minutes. Experienced people may stay up to about 10 minutes. Most people are fine at two or three sessions a week. The guide talks about circulation, soreness, alertness, and learning to breathe when the body wants to tense.
+
+The complete guide to float therapy (2 December 2025)
+https://recovery-base-au.web.app/blog/float-therapy
+A private tank of warm water and Epsom salt. The water is close to skin temperature. Sound and light stay low. The guide links floating with muscle ease, less load on joints, lower tension, and a calmer nervous system. It is the opposite of a hard workout: an hour that asks little of the person.
+
+The complete guide to compression therapy (3 January 2026)
+https://recovery-base-au.web.app/blog/compression-therapy
+Professional-grade boots apply rhythmic air pressure, mostly to the legs. Chambers inflate and deflate in sequence. The studio describes better blood flow, less swelling, and an easier return to movement after training or a day on your feet.
+
+Your complete guide to recovery: the tools that help every body (2 February 2026)
+https://recovery-base-au.web.app/blog/recovery-tools
+Overview of sauna, ice bath, compression, and float. Heat and cold together are contrast. Compression sits between sessions. Float is the quiet hour. The advice is to start with the tool that feels approachable.
+
+## Women in Wellness
+
+The last event sold out in under 10 minutes. The next event has a waitlist for early access before public release. Join by emailing hello@recoverybase.com.au with the subject “Women in Wellness”, or use the form on https://recovery-base-au.web.app/women
+
+## Pages
+
+- Home: https://recovery-base-au.web.app/
+- About: https://recovery-base-au.web.app/about
+- Memberships: https://recovery-base-au.web.app/memberships
+- Book: https://recovery-base-au.web.app/book
+- Contact: https://recovery-base-au.web.app/contact
+- Google listing details: https://recovery-base-au.web.app/google
+- Blog: https://recovery-base-au.web.app/blog
+- Women in Wellness: https://recovery-base-au.web.app/women
+- Login: https://recovery-base-au.web.app/login
+- Sitemap: https://recovery-base-au.web.app/sitemap.xml
+- RSS: https://recovery-base-au.web.app/feed.xml

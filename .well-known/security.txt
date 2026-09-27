@@ -1,0 +1,4 @@
+Contact: mailto:hello@recoverybase.com.au
+Preferred-Languages: en
+Canonical: https://recovery-base-au.web.app/.well-known/security.txt
+Policy: https://recovery-base-au.web.app/contact

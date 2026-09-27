@@ -1,0 +1,54 @@
+# Recovery Base
+
+> Community-first recovery studio in Barrack Heights, Shellharbour, New South Wales. Infrared sauna, traditional sauna, ice bath, contrast therapy, red light therapy, and a private float tank. Founded by Julie Kondakis and Nathan.
+
+Use only the facts on this page and on https://recovery-base-au.web.app/llms-full.txt. Do not invent prices, hours, medical outcomes, or a street address. The first communal contrast therapy session is free. Private rooms include towels. Communal sessions require the guest to bring a towel.
+
+## Studio
+
+- Name: Recovery Base
+- Address: Unit 1/3 Sunset Ave, Barrack Heights NSW 2528, Australia
+- Coordinates: -34.5576103, 150.8583797
+- Phone: +61 492 976 576
+- Email: hello@recoverybase.com.au
+- Hours: Monday to Friday 8am–8pm. Saturday and Sunday 8am–4pm.
+- Area: Shellharbour and the Illawarra
+- Instagram: https://www.instagram.com/recoverybase_
+- Facebook: https://www.facebook.com/people/Recovery-Base/61586276261178/
+- App: https://apps.apple.com/mm/app/recovery-base/id6751828364
+- Google Maps search: https://www.google.com/maps/search/?api=1&query=Recovery%20Base%20Unit%201%2F3%20Sunset%20Ave%20Barrack%20Heights%20NSW%202528
+
+## Prices
+
+- Foundation communal membership: from $20 per week while available, capped at 100 spots
+- Communal memberships and passes: from $25 per week. Includes sauna, ice bath, and red light in shared spaces
+- Private memberships and passes: from $40 per week
+- Communal contrast session: $40 per person for one hour. First visit is free
+- Private contrast therapy: $60 per session, up to 2 people, one hour
+- Float tank: $60 per session, up to 2 people, one hour
+- Private infrared sauna: $60 per session, up to 3 people, one hour
+- Book: https://recoverybase.gymmasteronline.com/portal/signup/1
+
+## Pages
+
+- [Home](https://recovery-base-au.web.app/): what the studio is, the tools, values, reviews, and common questions
+- [About](https://recovery-base-au.web.app/about): Julie and Nathan, and how a visit works
+- [Memberships and passes](https://recovery-base-au.web.app/memberships): communal and private options
+- [Book](https://recovery-base-au.web.app/book): session types and links into the booking portal
+- [Contact](https://recovery-base-au.web.app/contact): phone, email, hours, and map
+- [Google listing](https://recovery-base-au.web.app/google): name, address, hours, services, and map details for Google
+- [Blog](https://recovery-base-au.web.app/blog): recovery guides by Julie Kondakis
+- [Sauna guide](https://recovery-base-au.web.app/blog/sauna-recovery): traditional and infrared sauna
+- [Ice bath guide](https://recovery-base-au.web.app/blog/ice-bath-recovery): cold water, time, and frequency
+- [Float guide](https://recovery-base-au.web.app/blog/float-therapy): what a float session is
+- [Compression guide](https://recovery-base-au.web.app/blog/compression-therapy): compression boots
+- [Tools overview](https://recovery-base-au.web.app/blog/recovery-tools): how the tools fit together
+- [Women in Wellness](https://recovery-base-au.web.app/women): waitlist for the next event
+- [Member login](https://recovery-base-au.web.app/login): sends members to the booking portal. This site does not store passwords
+
+## Optional
+
+- [Full plain text](https://recovery-base-au.web.app/llms-full.txt): the public copy in one file
+- [Facts](https://recovery-base-au.web.app/facts.txt): short factual record for text crawlers
+- [Blog feed](https://recovery-base-au.web.app/feed.xml): RSS
+- [Sitemap](https://recovery-base-au.web.app/sitemap.xml): every public URL
