@@ -105,3 +105,75 @@ if ("serviceWorker" in navigator) {
     navigator.serviceWorker.register("/sw.js").catch(() => { });
   });
 }
+
+const installed = window.matchMedia("(display-mode: standalone)").matches || window.navigator.standalone;
+const installHidden = localStorage.getItem("rb-install-hidden") === "1";
+const ios = /iphone|ipad|ipod/i.test(navigator.userAgent);
+
+if (!installed && !installHidden) {
+  let deferredPrompt = null;
+  const pop = document.createElement("div");
+  pop.className = "install-pop";
+  pop.hidden = true;
+  pop.innerHTML = `
+    <div class="install-card" role="dialog" aria-labelledby="install-title">
+      <img src="/icons/icon-192.png" alt="">
+      <h2 id="install-title">Add Recovery Base</h2>
+      <p class="install-lead">Keep the studio on your home screen and open it like an app.</p>
+      <ol class="install-steps" hidden>
+        <li>Tap the Share button in Safari.</li>
+        <li>Choose Add to Home Screen.</li>
+        <li>Tap Add.</li>
+      </ol>
+      <div class="install-actions">
+        <button class="btn install-go" type="button">Install app</button>
+        <button class="btn btn-ghost install-later" type="button">Not now</button>
+      </div>
+    </div>
+  `;
+  document.body.appendChild(pop);
+
+  const steps = pop.querySelector(".install-steps");
+  const lead = pop.querySelector(".install-lead");
+  const go = pop.querySelector(".install-go");
+
+  const show = () => {
+    pop.hidden = false;
+  };
+  const hide = () => {
+    localStorage.setItem("rb-install-hidden", "1");
+    pop.remove();
+  };
+
+  pop.querySelector(".install-later").addEventListener("click", hide);
+  pop.addEventListener("click", (event) => {
+    if (event.target === pop) hide();
+  });
+
+  go.addEventListener("click", async () => {
+    if (!deferredPrompt) {
+      lead.hidden = false;
+      lead.textContent = "Use the install icon in the address bar, or the browser menu, then choose Install app.";
+      return;
+    }
+    deferredPrompt.prompt();
+    await deferredPrompt.userChoice.catch(() => { });
+    deferredPrompt = null;
+    hide();
+  });
+
+  window.addEventListener("beforeinstallprompt", (event) => {
+    event.preventDefault();
+    deferredPrompt = event;
+    go.hidden = false;
+    show();
+  });
+
+  if (ios) {
+    lead.hidden = true;
+    steps.hidden = false;
+    go.hidden = true;
+  }
+
+  setTimeout(show, 700);
+}
